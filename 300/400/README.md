@@ -24,7 +24,7 @@ Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@Clr
 
 - Use "How might we" Statements or similar method to summarize the Pains and Gains you have identified.
 
-## (User) Stories for **Master JavaScript**:
+## (User) Stories for **Master SaaS Application Creation**:
 
 Based on "10-Step Learning System by John Sonmez" at https://medium.com/the-polymath-project/how-to-learn-anything-the-sonmez-10-step-system-30f343cf1112 See also https://github.com/vanHeemstraSystems/10-step-learning-system
 
@@ -48,7 +48,7 @@ See [README.md](./300/README.md)
 
 See [README.md](./400/README.md)
 
-### Step 5: Create a Learning Plan
+### Step 5: Create a Production Plan
 
 See [README.md](./500/README.md)
 
@@ -56,9 +56,9 @@ See [README.md](./500/README.md)
 
 See [README.md](./600/README.md)
 
---- PHASE TWO: LEARNING ---
+--- PHASE TWO: CREATING ---
 
-### Step 7: Learn enough to get started
+### Step 7: Create enough to get started
 
 See [README.md](./700/README.md)
 
@@ -66,10 +66,10 @@ See [README.md](./700/README.md)
 
 See [README.md](./800/README.md)
 
-### Step 9: Learn enough to do something useful
+### Step 9: Create enough to do something useful
 
 See [README.md](./900/README.md)
 
-### Step 10: Teach
+### Step 10: Produce
 
 See [README.md](./1000/README.md)

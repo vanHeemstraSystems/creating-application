@@ -1,5 +1,5 @@
-# Step 10: Teach
+# Step 10: Produce
 
-The final step is to try and teach what you've learned.
+The final step is to try and produce what you've created.
 
-See on Project Board: "Step 10: Teach" at https://github.com/orgs/vanHeemstraSystems/projects/5/views/1?pane=issue&itemId=21349527
+See on Project Board: "Step 10: Produce" at https://github.com/orgs/vanHeemstraSystems/projects/7/views/1?layout=board&pane=issue&itemId=22144969

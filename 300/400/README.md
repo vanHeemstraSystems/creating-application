@@ -2,7 +2,7 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-![image](https://user-images.githubusercontent.com/1499433/221177040-775f0623-cb78-46e3-9131-9e8eb87df3fb.png)
+![User_Stories_Master_Application_Creation](https://user-images.githubusercontent.com/1499433/223108797-a13ae997-cca8-4531-9ea0-39cde2678c15.png)
 
 **Planning Your Minimum Viable Product (MVP)**
 

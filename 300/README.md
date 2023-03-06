@@ -1,4 +1,4 @@
-# 300 - Learning Our Subject
+# 300 - Creating Our Product
 
 ## 100 - Step 1: Initiative
 

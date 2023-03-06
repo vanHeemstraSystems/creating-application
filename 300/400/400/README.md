@@ -1,6 +1,6 @@
 # Step 4: Find Resources
 
-Gather resources from the Internet, libraries, forums, etc. that might be useful for your learning project.
+Gather resources from the Internet, libraries, forums, etc. that might be useful for your creating project.
 
 See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/5/views/1?pane=issue&itemId=21344584
 

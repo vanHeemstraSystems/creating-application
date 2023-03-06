@@ -6,34 +6,34 @@ See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHee
 
 ## Add Images to Pinterest
 
-Use **Boards** to categorize these (e.g., ```JavaScript```).
+Use **Boards** to categorize these (e.g., ```SaaS Application```).
 
 See https://pinterest.com
 
 ## Add URLs to Pocket.io
 
-Use Tags to categorize these (e.g., ```JavaScript```).
+Use Tags to categorize these (e.g., ```SaaS Application```).
 
 See https://getpocket.com
 
 ## Add Media to Envato
 
-Use **Favourites** to list these (e.g., ```JavaScript```).
+Use **Favourites** to list these (e.g., ```SaaS Application```).
 
 See https://envato.com
 
 ## Add Documents to ...
 
-Use **Tags** to categorize these (e.g., ```Cheatsheets on JavaScript```).
+Use **Tags** to categorize these (e.g., ```Cheatsheets on SaaS Application```).
 
 ## Link Tutorials to ...
 
-Use **Tags** to categorize these (e.g., ```JavaScript```).
+Use **Tags** to categorize these (e.g., ```SaaS Application```).
 
 See https://youtube.com
 
 ## Link Courses to ...
 
-Use **Tags** to categorize these (e.g., ```JavaScript```).
+Use **Tags** to categorize these (e.g., ```SaaS Application```).
 
 See https://linuxacademy.com

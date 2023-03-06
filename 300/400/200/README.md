@@ -4,4 +4,4 @@ Limit the size of what you want to create. "Universes" or "eternity" is too wide
 
 We'll go for "SaaS Application Creation".
 
-See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/5/views/1?pane=issue&itemId=21342125
+See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/7/views/1?layout=board&pane=issue&itemId=22143761
